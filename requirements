@@ -1,0 +1,15 @@
+agentpy==0.1.4
+pandas==1.5.3
+seaborn==0.12.2
+networkx==3.0
+numpy==1.24.3
+scipy==1.11.3
+statistics==1.0.3.5
+matplotlib==3.7.2
+geopandas==0.13.2
+libpysal==4.8.0
+segregation==2.0.1
+splot==1.1.5
+shapely==2.0.1
+IPython==8.16.1
+regex==2024.2.4
