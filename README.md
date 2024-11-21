@@ -47,7 +47,7 @@ Run the scripts in the following sequence:
             'distance':30 # distance range for calculating segregation as H index 
         }
     
-    ** Output **
+    ### Output 
     For each network configuration, this script creates an attributes and edgelist file in /network_files. It also stores a 
     sociogram for each network in /network_plots.
     The script stores reporters separately for each clique size c as reporters_networkcreate{c}.csv and plots the number of steps required for each combination of homophily, clustering threshold, and clique size. 
@@ -55,6 +55,7 @@ Run the scripts in the following sequence:
 2. run   ```simulation ``` 
     In this file we conduct a multi-run experiment. To do so, first prepare a parameter sample that mirrors the parameters of networks previously created (if 'create_networks':False). Set the sampling factor (e.g., 5) using ```sample = ap.Sample(parameters_multi, n=5)```. Then run n iterations of the experiment separately for each clique size using ```exp = ap.Experiment(SegregationModel, sample, iterations=n)```
 
+    ### Output
     The results of each model get saved in ap_output\SegregationModel_{#}. 
     Each folder contains:
         > info.json
