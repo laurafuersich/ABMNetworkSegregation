@@ -19,13 +19,7 @@ Hagberg, A. A., Schult, D. A., & Swart, P. J. (2008). Exploring Network Structur
 To set up the environment for running this ABM, follow these steps:
 
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. **Install the required dependencies using Anaconda:**
+ **Install the required dependencies using Anaconda:**
     ```bash
     pip install -r requirements.txt
     ```
