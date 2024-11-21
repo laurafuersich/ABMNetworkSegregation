@@ -76,11 +76,8 @@ Run the scripts in the following sequence:
 
 
 
-## Citation
-If users reference this code in their work, provide the citation format. Include DOI if applicable.
-
 ## License
-State the license under which the code is released (e.g., MIT, GPL-3.0).
+This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 I thank Benjamin F. Jarvis, Carl Nordlund, Martin Arvidsson, the SFI GWCSS 2022 participants, and instructors John Miller and Scott E Page for their helpful comments and suggestions.
