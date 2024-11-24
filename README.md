@@ -58,10 +58,10 @@ Run the scripts in the following sequence:
     ### Output
     The results of each model get saved in ap_output\SegregationModel_{#}. 
     Each folder contains:
-        > info.json
-        > parameters_constant.json
-        > parameter_sample.csv
-        > reporters.csv
+        - info.json
+        - parameters_constant.json
+        - parameter_sample.csv
+        - reporters.csv
 
     Additional reporting saved in
         3_simulation/t_seg: This folder contains information on the level of segregation and the number of unhappy agents at each time step. 
