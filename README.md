@@ -1,5 +1,6 @@
 ## How Do Social Network Features Shape Segregation? A Simulation Study.
 ## Author: Laura Fürsich, Mansueto Institute for Urban Innovation & Urban Science Laboratory, University of Chicago
+### pre print available here: https://osf.io/preprints/socarxiv/58kec
 
 
 ## Funding: 
